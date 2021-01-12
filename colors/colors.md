@@ -1,0 +1,40 @@
+<h1>Colors</h1>
+<br>
+<h2>Preset colors in classes!</h2>
+<h2>Color classes are in the following format</h2>
+<br>
+class="red"
+<br>
+class="blue"
+<br>
+class="green"
+<br>
+class="lime"
+<br>
+class="purple"
+<br>
+class="violet"
+<br>
+class="white"
+<br>
+class="black"
+<br>
+class="gray"
+<br>
+class="yellow"
+<br>
+class="ornage"
+<br>
+class="redorange"
+<br>
+class="cyan"
+<br>
+class="brown"
+<br>
+class="pink"
+<br>
+class="navy"
+<br>
+class="hotpink"
+<br>
+<h2>These are all of the color classes, make sure to import the file before using!</h2>
